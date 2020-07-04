@@ -1,0 +1,3 @@
+all of these files come from https://github.com/TheEssem/theessem.github.io
+
+Too lazy to fork so my idiot self decided to just take the files
